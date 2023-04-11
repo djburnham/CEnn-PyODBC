@@ -1,0 +1,6 @@
+{ 
+        "hostname": "ec2-35-176-213-89.eu-west-2.compute.amazonaws.com",
+        "database": "datalab_ce05",
+        "username": "<YOUR_USERNAME_HERE>",
+        "psw": "<YOUR_PASSWORD_HERER>" 
+}
